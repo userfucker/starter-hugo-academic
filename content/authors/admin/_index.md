@@ -1,9 +1,8 @@
 ---
 title: 梁孟松
-role: Professor of Artificial Intelligence
+role: 中芯国际联合首席执行官
 avatar_filename: 09fa513d269759ee19925592bdfb43166c22dfac.webp
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: 拥有逾450项半导体专利，曾发表技术论文350余篇。
 interests:
   - Artificial Intelligence
   - Computational Linguistics
