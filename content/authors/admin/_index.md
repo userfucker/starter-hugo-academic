@@ -1,7 +1,7 @@
 ---
 title: 梁孟松
 role: 中芯国际联合首席执行官
-avatar_filename: 09fa513d269759ee19925592bdfb43166c22dfac.webp
+avatar_filename: 360截图20230929221726122.jpg
 bio: 拥有逾450项半导体专利，曾发表技术论文350余篇。
 interests:
   - Artificial Intelligence
