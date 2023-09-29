@@ -1,6 +1,7 @@
 ---
 title: 梁孟松
 role: Professor of Artificial Intelligence
+avatar_filename: 09fa513d269759ee19925592bdfb43166c22dfac.webp
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
