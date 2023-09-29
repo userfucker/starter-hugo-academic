@@ -51,6 +51,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+梁孟松（1952年—），中国台湾省电子工程学家，为电机电子工程师学会院士，曾任国立清华大学电机系与电子所教授、成均馆大学访问教授，在业界历任超微工程师、台积电资深研发长、三星电子研发副总经理，出任中芯国际联合首席执行官（CEO）兼执行董事，与林本坚、杨光磊、蒋尚义、孙元成、余振华等人并称“台积电研发六骑士“{style="text-align: justify;"}
